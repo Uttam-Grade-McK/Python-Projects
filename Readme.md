@@ -1,4 +1,4 @@
-Stock & News Alert App
+** Stock & News Alert App
 This project is a Streamlit web app that monitors stock prices and sends news alerts when there’s a significant change in the stock price. The app pulls stock data from Alpha Vantage and news articles from NewsAPI. If a price change exceeds a certain threshold, the app fetches related news and automatically sends it as a notification via Twilio.
 
 Features
